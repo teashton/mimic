@@ -1,0 +1,54 @@
+
+h1 {
+  margin: auto;
+  text-align: center;
+}
+/*
+table {
+    border: 1px solid blue;
+    outline: 1px solid blue;
+}
+
+table {
+
+  width:100%;
+}
+th {
+  border: 1px solid blue;
+  width:33.33333333%;
+}*/
+div{
+  display:inline-block;
+  float:left;
+  color:#000000;
+  font-size:16px;
+  font-size-adjust: auto;
+  align-content: center;
+}
+
+.one{
+  border: 1px solid blue;
+  text-align: center;
+  display: inline-grid;
+  width:33%;
+  height:50px;
+  background:#e5f3fa;
+}
+
+.two{
+  border: 1px solid blue;
+  display: inline-grid;
+  text-align: center;
+  width:33%;
+  height:50px;
+  background:#e5f3fa;
+}
+
+.three{
+  border: 1px solid blue;
+  display: inline-grid;
+  text-align: center;
+  width:33%;
+  height:50px;
+  background:#e5f3fa;
+}
