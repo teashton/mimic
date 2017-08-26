@@ -3,20 +3,7 @@ h1 {
   margin: auto;
   text-align: center;
 }
-/*
-table {
-    border: 1px solid blue;
-    outline: 1px solid blue;
-}
 
-table {
-
-  width:100%;
-}
-th {
-  border: 1px solid blue;
-  width:33.33333333%;
-}*/
 div{
   display:inline-block;
   float:left;
@@ -26,29 +13,88 @@ div{
   align-content: center;
 }
 
+#idtop{
+  display:inline-block;
+  float:left;
+  color:#000000;
+  font-size:16px;
+  font-size-adjust: auto;
+  align-content: center;
+}
 .one{
+  text-decoration-style: solid;
   border: 1px solid blue;
   text-align: center;
   display: inline-grid;
   width:33%;
   height:50px;
-  background:#e5f3fa;
+  background:#eef8ff;
 }
 
 .two{
+  text-decoration-style: solid;
   border: 1px solid blue;
   display: inline-grid;
   text-align: center;
   width:33%;
   height:50px;
-  background:#e5f3fa;
+  background:#eef8ff;
 }
 
 .three{
+  text-decoration-style: solid;
   border: 1px solid blue;
   display: inline-grid;
   text-align: center;
   width:33%;
   height:50px;
-  background:#e5f3fa;
+  background:#eef8ff;
+}
+
+
+#table1 {
+    font-size: 16.6px;
+    background-color: rgb(214, 213, 213);
+    margin: auto;
+    width: 90%;
+
+
+    outline: 1px solid black;
+}
+
+#company {
+  width: 16%;
+    border: 1px solid black;
+}
+#contact {
+  width: 45%;
+    border: 1px solid black;
+}
+#country {
+  width: 38%;
+    border: 1px solid black;
+}
+
+#tdtag {
+  text-align: center;
+  border: 1px solid black;
+  width:33.33333333%;
+}
+#bot1 {
+  text-decoration-style: solid;
+  text-align: center;
+  width:33%;
+
+}
+#bot2 {
+  text-decoration-style: solid;
+  text-align: center;
+  display: inline-grid;
+  width:33%;
+  height:50px;
+
+}
+
+#top {
+
 }
