@@ -62,16 +62,16 @@ div{
     outline: 1px solid black;
 }
 
-#company {
-  width: 16%;
+#website {
+  width: 38%;
     border: 1px solid black;
 }
-#contact {
+#vcs {
   width: 45%;
     border: 1px solid black;
 }
-#country {
-  width: 38%;
+#rating {
+  width: 16%;
     border: 1px solid black;
 }
 
@@ -80,21 +80,77 @@ div{
   border: 1px solid black;
   width:33.33333333%;
 }
+#table2 {
+  justify-content: space-between;
+    font-size: 16.6px;
+    margin: auto;
+    width: 100%;
+  }
 #bot1 {
   text-decoration-style: solid;
   text-align: center;
-  width:33%;
+  width:50%;
 
 }
 #bot2 {
   text-decoration-style: solid;
   text-align: center;
-  display: inline-grid;
-  width:33%;
-  height:50px;
+  width:50%;
 
 }
 
-#top {
+#list1 {
+  padding-left: 14%;
+  padding-top: 0%;
+
+}
+#ul1 {
+  padding-left: 15%;
+  padding-top: 0%;
+}
+
+#lastline {
+
+}
+#hr2 {
+  margin-top: -.19%;
+
+}
+
+#imgl {
+}
+
+#green {
+  margin-top: 53px;
+  margin-left: 130px;
+  align-self: flex-start;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+
+  border-radius: 500px;
+  border: 3px solid;
+}
+
+#purple {
+  margin-top: 53px;
+  margin-left: 253px;
+  align-self: flex-start;
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+
+  border: 3px solid;
+}
+
+#rabbit {
+  margin-top: 53px;
+  margin-left: 257px;
+  align-self: flex-start;
+  width: 200px;
+  height: 200px;
+
+  border: solid 3px;
+  border-color: rgb(0, 0, 255);
 
 }
